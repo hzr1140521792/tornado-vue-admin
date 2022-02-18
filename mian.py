@@ -2,7 +2,7 @@
 # -*- encoding: utf-8 -*-
 """
 Copyright (c) 1997-2022 YMT.com, Inc. All Rights Reserved
-@author: hanzhengrong (hanzhengrong@ymt360.com)
+@author: hanzhengrong
 @create: 2022/2/18 10:35 AM
 @brief: 入口
 """
